@@ -1,0 +1,16 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caporal": "^1.4.0",
+    "mongoose": "^5.9.26",
+    "prompt-confirm": "^2.0.4"
+  }
+}
